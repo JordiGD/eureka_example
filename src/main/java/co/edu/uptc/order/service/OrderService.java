@@ -6,7 +6,6 @@ import co.edu.uptc.order.dto.UserDTO;
 import co.edu.uptc.order.entity.Order;
 import co.edu.uptc.order.mapper.OrderMapper;
 import co.edu.uptc.order.repo.OrderRepo;
-import co.edu.uptc.order.repo.SequenceGenerator;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 

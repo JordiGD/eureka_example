@@ -1,4 +1,4 @@
-package co.edu.uptc.order.repo;
+package co.edu.uptc.order.service;
 
 import co.edu.uptc.order.entity.Sequence;
 import org.springframework.beans.factory.annotation.Autowired;
