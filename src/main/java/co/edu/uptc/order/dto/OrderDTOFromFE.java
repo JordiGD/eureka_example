@@ -11,7 +11,7 @@ import java.util.List;
 @NoArgsConstructor
 public class OrderDTOFromFE {
 
-    private List<FoodItemDTO> foodItemList;
+    private List<Long> foodItemList;
     private Long userId;
-    private Restaurant restaurant;
+    private Long restaurantId;
 }
